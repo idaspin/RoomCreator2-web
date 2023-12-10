@@ -1,0 +1,1055 @@
+[
+    {
+        "id": "RoomCreator",
+        "strings": {
+            "ru": "",
+            "uk": "",
+            "en": "",
+            "fr": ""
+        }
+    },
+    {
+        "id": "commandcooldown",
+        "strings": {
+            "ru": "На команды бота установлен кулдаун :/",
+            "uk": "На команди бота встановлено кулдаун :/",
+            "en": "There is a cooldown on the bot's commands :/",
+            "fr": "Il y a un temps de recharge sur les commandes du bot :/"
+        }
+    },
+    {
+        "id": "interactionerror",
+        "strings": {
+            "ru": "Ошибка при вызове устаревшей команды:",
+            "uk": "Помилка під час виклику застарілої команди:",
+            "en": "Error when calling an obsolete command:",
+            "fr": "Erreur lors de l'appel d'une commande obsolète:"
+        }
+    },
+    {
+        "id": "interactionerrorreply",
+        "strings": {
+            "ru": "Команда устарела.",
+            "uk": "Команда застаріла.",
+            "en": "The command is outdated.",
+            "fr": "La commande est obsolète."
+        }
+    },
+    {
+        "id": "interactionerrorexec",
+        "strings": {
+            "ru": "Непредвиденная ошибка при вызове команды:",
+            "uk": "Непередбачена помилка під час виклику команди:",
+            "en": "Unexpected error when calling command:",
+            "fr": "Erreur inattendue lors de l'appel de la commande:"
+        }
+    },
+    {
+        "id": "interactionerrorexecreply",
+        "strings": {
+            "ru": "Команда не выполнена. Произошла ошибка.",
+            "uk": "Команда не виконана. Виникла помилка.",
+            "en": "The command was not completed. An error has occurred.",
+            "fr": "La commande n'a pas été exécutée. Une erreur est survenue."
+        }
+    },
+    {
+        "id": "triggerprevchannelback",
+        "strings": {
+            "ru": "Попытка пересоздания канала:",
+            "uk": "Спроба перестворення каналу:",
+            "en": "Attempt to recreate the channel:",
+            "fr": "Essayez de recréer la chaîne :"
+        }
+    },
+    {
+        "id": "triggerprevchannelbackerror",
+        "strings": {
+            "ru": "Ошибка при попытке возвращения пользователя в его канал:",
+            "uk": "Помилка при спробі повернення користувача до його каналу:",
+            "en": "Error when trying to return a user to their channel:",
+            "fr": "Erreur lors de la tentative de renvoyer un utilisateur sur sa chaîne:"
+        }
+    },
+    {
+        "id": "chat",
+        "strings": {
+            "ru": "Чат",
+            "uk": "Чат",
+            "en": "Chat",
+            "fr": "Chat"
+        }
+    },
+    {
+        "id": "room",
+        "strings": {
+            "ru": "Комната",
+            "uk": "Кімната",
+            "en": "Room",
+            "fr": "Chambre"
+        }
+    },
+    {
+        "id": "channel",
+        "strings": {
+            "ru": "Канал",
+            "uk": "Канал",
+            "en": "Channel",
+            "fr": "Canal"
+        }
+    },
+    {
+        "id": "triggercreatechannelerror",
+        "strings": {
+            "ru": "Ошибка при создании канала в категории. Проверьте наличие прав:",
+            "uk": "Помилка під час створення каналу в категорії. Перевірте наявність прав:",
+            "en": "Error creating a channel in a category. Check your permissions:",
+            "fr": "Erreur lors de la création d'une chaîne dans une catégorie. Vérifiez vos autorisations:"
+        }
+    },
+    {
+        "id": "triggercreatechannelmoveerror",
+        "strings": {
+            "ru": "Ошибка при перемещении пользователя в создании канал. Проверьте наличие прав:",
+            "uk": "Помилка при переміщенні користувача у створенні каналу. Перевірте наявність прав:",
+            "en": "Error when moving user to create a channel. Check your permissions:",
+            "fr": "Erreur lors du déplacement de l'utilisateur pour créer une chaîne. Vérifiez vos autorisations:"
+        }
+    },
+    {
+        "id": "triggercreatechannelinviteerror",
+        "strings": {
+            "ru": "Ошибка при создании ссылки-приглашения для канала. Проверьте наличие прав:",
+            "uk": "Помилка під час створення посилання-запрошення для каналу. Перевірте наявність прав:",
+            "en": "Error when creating an invitation link for a channel. Check your permissions:",
+            "fr": "Erreur lors de la création d'un lien d'invitation pour une chaîne. Vérifiez vos autorisations:"
+        }
+    },
+    {
+        "id": "triggercreatechannel",
+        "strings": {
+            "ru": "Создан голосовой канал:",
+            "uk": "Створено голосовий канал:",
+            "en": "Voice channel created:",
+            "fr": "Canal vocal créé:"
+        }
+    },
+    {
+        "id": "channelreuse",
+        "strings": {
+            "ru": "Канал был пересоздан",
+            "uk": "Канал було перетворено",
+            "en": "The channel has been recreated",
+            "fr": "La chaîne a été recréée"
+        }
+    },
+    {
+        "id": "channelreset",
+        "strings": {
+            "ru": "Сброшены настройки голосового канала",
+            "uk": "Скинуто налаштування голосового каналу",
+            "en": "Voice channel settings reset",
+            "fr": "Réinitialisation des paramètres du chat vocal"
+        }
+    },
+    {
+        "id": "channelrename",
+        "strings": {
+            "ru": "Голосовой канал был переименован",
+            "uk": "Голосовий канал було перейменовано",
+            "en": "The voice channel has been renamed",
+            "fr": "Le chat vocal a été renommé"
+        }
+    },
+    {
+        "id": "channelbitrate",
+        "strings": {
+            "ru": "Битрейт голосового канала изменен",
+            "uk": "Бітрейт голосового каналу змінено",
+            "en": "Voice channel bitrate changed",
+            "fr": "Le débit binaire du chat vocal a été modifié"
+        }
+    },
+    {
+        "id": "channellimit",
+        "strings": {
+            "ru": "Лимит пользователей голосового канала изменен",
+            "uk": "Ліміт користувачів голосового каналу змінено",
+            "en": "Voice channel user limit changed",
+            "fr": "La limite d'utilisateurs du chat vocal a été modifiée"
+        }
+    },
+    {
+        "id": "channelreuseerror",
+        "strings": {
+            "ru": "Канал не был пересоздан. Перепроверьте права категории",
+            "uk": "Канал не було перестворено. Перевірте ще раз права категорії",
+            "en": "The channel has not been recreated. Сheck category permissions",
+            "fr": "La chaîne n'a pas été recréée. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channelreseterror",
+        "strings": {
+            "ru": "Сброс настроек голосового канала не был произведен. Перепроверьте права категории",
+            "uk": "Скидання налаштувань голосового каналу не було здійснено. Перевірте ще раз права категорії",
+            "en": "The voice channel settings were not reset. Сheck category permissions",
+            "fr": "Les paramètres du chat vocal n'ont pas été réinitialisés. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channelrenameerror",
+        "strings": {
+            "ru": "Голосовой канал не был переименован. Перепроверьте права категории",
+            "uk": "Голосовий канал не було перейменовано. Перевірте ще раз права категорії",
+            "en": "The voice channel has not been renamed. Сheck category permissions",
+            "fr": "Le chat vocal n'a pas été renommé. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channelbitrateerror",
+        "strings": {
+            "ru": "Битрейт голосового канала не был изменен. Перепроверьте права категории",
+            "uk": "Бітрейт голосового каналу не змінено. Перевірте ще раз права категорії",
+            "en": "The voice channel has not been renamed. Сheck category permissions",
+            "fr": "Le débit binaire du chat vocal n’a pas été modifié. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channellimiterror",
+        "strings": {
+            "ru": "Лимит пользователей голосового канала не был изменен. Перепроверьте права категории",
+            "uk": "Ліміт користувачів голосового каналу не змінено. Перевірте ще раз права категорії",
+            "en": "The voice channel user limit has not been changed. Сheck category permissions",
+            "fr": "La limite d'utilisateurs du chat vocal n'a pas été modifiée. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channelcreateerror",
+        "strings": {
+            "ru": "Канал не был создан. Перепроверьте права категории",
+            "uk": "Канал не було створено. Перевірте ще раз права категорії",
+            "en": "The channel was not created. Сheck category permissions",
+            "fr": "La chaîne n'a pas été créée. Vérifiez à nouveau les autorisations de catégorie"
+        }
+    },
+    {
+        "id": "channelcreatedmessage",
+        "strings": {
+            "ru": "Создан голосовой чат",
+            "uk": "Створено голосовий чат",
+            "en": "Created a voice chat",
+            "fr": "Chat vocal créé"
+        }
+    },
+    {
+        "id": "channelcreatedmessageowner",
+        "strings": {
+            "ru": "Владелец",
+            "uk": "Власник",
+            "en": "Owner",
+            "fr": "Propriétaire"
+        }
+    },
+    {
+        "id": "channelcreatedmessagecreator",
+        "strings": {
+            "ru": "Создатель",
+            "uk": "Творець",
+            "en": "Creator",
+            "fr": "Créateur"
+        }
+    },
+    {
+        "id": "rename",
+        "strings": {
+            "ru": "Переименовать",
+            "uk": "Перейменувати",
+            "en": "Rename",
+            "fr": "Renommer"
+        }
+    },
+    {
+        "id": "bitrate",
+        "strings": {
+            "ru": "Битрейт",
+            "uk": "Бітрейт",
+            "en": "Bitrate",
+            "fr": "Débit"
+        }
+    },
+    {
+        "id": "limit",
+        "strings": {
+            "ru": "Лимит пользователей",
+            "uk": "Ліміт користувачів",
+            "en": "User limit",
+            "fr": "Limite d'utilisateurs"
+        }
+    },
+    {
+        "id": "privacy",
+        "strings": {
+            "ru": "Приватность",
+            "uk": "Приватність",
+            "en": "Privacy",
+            "fr": "Confidentialité"
+        }
+    },
+    {
+        "id": "kick",
+        "strings": {
+            "ru": "Выгнать",
+            "uk": "Вигнати",
+            "en": "Kick",
+            "fr": "Expulser"
+        }
+    },
+    {
+        "id": "ban",
+        "strings": {
+            "ru": "Заблокировать",
+            "uk": "Заблокувати",
+            "en": "Block",
+            "fr": "Bloquer un"
+        }
+    },
+    {
+        "id": "mute",
+        "strings": {
+            "ru": "Заглушить",
+            "uk": "Заглушити",
+            "en": "Mute",
+            "fr": "Muet"
+        }
+    },
+    {
+        "id": "owner",
+        "strings": {
+            "ru": "Передача прав",
+            "uk": "Передача прав",
+            "en": "Transfer of rights",
+            "fr": "Transfert de droits"
+        }
+    },
+    {
+        "id": "reset",
+        "strings": {
+            "ru": "Сбросить настройки",
+            "uk": "Скинути налаштування",
+            "en": "Reset settings",
+            "fr": "Réinitialiser les options"
+        }
+    },
+    {
+        "id": "invite",
+        "strings": {
+            "ru": "Создать приглашение",
+            "uk": "Створити запрошення",
+            "en": "Create an invitation",
+            "fr": "Créer une invitation"
+        }
+    },
+    {
+        "id": "triggercreatechannemessageerror",
+        "strings": {
+            "ru": "Ошибка при создания уведомления о создании канала в",
+            "uk": "Помилка при створенні повідомлення про створення каналу в",
+            "en": "Error when creating a notification about channel creation in",
+            "fr": "Erreur lors de la création d'une notification concernant la création d'une chaîne dans"
+        }
+    },
+    {
+        "id": "triggercreatechannemessageerrorlabelaccess",
+        "strings": {
+            "ru": "Канал не найден",
+            "uk": "Канал не знайдено",
+            "en": "Channel not found",
+            "fr": "Chaîne introuvable"
+        }
+    },
+    {
+        "id": "triggercreatechannemessageerrorlabelsend",
+        "strings": {
+            "ru": "Отправка сообщения",
+            "uk": "Відправка повідомлення",
+            "en": "Sending a message",
+            "fr": "Envoi d'un message"
+        }
+    },
+    {
+        "id": "leaveemptydeletionerror",
+        "strings": {
+            "ru": "Ошибка при удалении пустого канала. Проверьте наличие прав:",
+            "uk": "Помилка видалення порожнього каналу. Перевірте наявність прав:",
+            "en": "Error when deleting an empty channel. Check your permissions:",
+            "fr": "Erreur lors de la suppression d'un chat vide. Vérifiez vos autorisations:"
+        }
+    },
+    {
+        "id": "leaveemptydeletion",
+        "strings": {
+            "ru": "Удален канал",
+            "uk": "Вилучений канал",
+            "en": "Channel deleted",
+            "fr": "Chaîne supprimée"
+        }
+    },
+    {
+        "id": "leavetranswerownership",
+        "strings": {
+            "ru": "Передача прав на канал",
+            "uk": "Передача прав на канал",
+            "en": "Transfer of rights to the channel",
+            "fr": "Transfert des droits à la chaîne"
+        }
+    },
+    {
+        "id": "leavetranswerownershiperror",
+        "strings": {
+            "ru": "Ошибка передачи прав на канал. Перепроверьте права бота в категории.",
+            "uk": "Помилка передачі прав на канал. Перевірте ще раз бота в категорії.",
+            "en": "Error transferring rights to the channel. Сheck the bot's permissions in the category.",
+            "fr": "Erreur lors du transfert des droits vers la chaîne. Vérifiez à nouveau les autorisations du bot dans la catégorie."
+        }
+    },
+    {
+        "id": "channelupdatemessageerror",
+        "strings": {
+            "ru": "Ошибка при создания уведомления об обновлении канала",
+            "uk": "Помилка під час створення повідомлення про оновлення каналу",
+            "en": "Error creating channel update notification",
+            "fr": "Erreur lors de la création de la notification de mise à jour de la chaîne"
+        }
+    },
+    {
+        "id": "channelupdatemessageerrorsend",
+        "strings": {
+            "ru": "Отправка сообщения",
+            "uk": "Відправка повідомлення",
+            "en": "Sending a message",
+            "fr": "Envoi d'un message"
+        }
+    },
+    {
+        "id": "channelupdateownership",
+        "strings": {
+            "ru": "Права на канал переданы к",
+            "uk": "Права на канал передані до",
+            "en": "Channel rights transferred to",
+            "fr": "Droits de chaîne transférés à"
+        }
+    },
+    {
+        "id": "channelupdateownershiptips",
+        "strings": {
+            "ru": "Создатель канала в любой момент может восстановить права владельца по соотв. кнопке.",
+            "uk": "Творець каналу в будь-який час може відновити права власника, натиснувши відповідну кнопку.",
+            "en": "The creator of the channel at any time can restore the rights of the owner by the corresponding button.",
+            "fr": "Le créateur de la chaîne peut à tout moment restaurer les droits du propriétaire en cliquant sur le bouton correspondant."
+        }
+    },
+    {
+        "id": "roomcreator_description_localizations",
+        "strings": {
+            "ru": "Информация о боте",
+            "uk": "Інформація про роботу",
+            "en": "Bot information",
+            "fr": "Informations sur les robots"
+        }
+    },
+    {
+        "id": "reset_description_localizations",
+        "strings": {
+            "ru": "Сбросить настройки голосового канала",
+            "uk": "Скинути налаштування голосового каналу",
+            "en": "Reset voice channel settings",
+            "fr": "Réinitialiser les paramètres du chat vocal"
+        }
+    },
+    {
+        "id": "me_description_localizations",
+        "strings": {
+            "ru": "Отобразить панель управления моими каналами",
+            "uk": "Відобразити панель керування моїми каналами",
+            "en": "Display control panel for my channels",
+            "fr": "Afficher le panneau de contrôle de mes chaînes"
+        }
+    },
+    {
+        "id": "voice_handler_not_found",
+        "strings": {
+            "ru": "Голосовой канал не найден.",
+            "uk": "Голосовий канал не знайдено.",
+            "en": "Voice channel not found.",
+            "fr": "Chat vocal introuvable."
+        }
+    },
+    {
+        "id": "ownership_handler_not_found",
+        "strings": {
+            "ru": "Для восстановления или передачи прав владения голосовым каналом требуется быть его участником.",
+            "uk": "Для відновлення або передачі прав володіння голосовим каналом потрібно бути його учасником.",
+            "en": "To regain or transfer ownership of a voice channel, you must be a member of the channel.",
+            "fr": "Pour récupérer ou transférer la propriété d'un chat vocal, vous devez être membre du chat."
+        }
+    },
+    {
+        "id": "ownership_handler_user_not_found",
+        "strings": {
+            "ru": "Для передачи прав целевой пользователь должен быть участником голосового канала.",
+            "uk": "Для передачі прав цільовий користувач має бути учасником голосового каналу.",
+            "en": "To transfer ownership, the target user must be a member of the voice channel.",
+            "fr": "Pour transférer les droits, l'utilisateur cible doit être membre du chat vocal."
+        }
+    },
+    {
+        "id": "usertransferownership",
+        "strings": {
+            "ru": "Право владения голосовым каналом передано",
+            "uk": "Право володіння голосовим каналом передано",
+            "en": "Ownership of the voice channel has been transferred",
+            "fr": "La propriété du chat vocal a été transférée"
+        }
+    },
+    {
+        "id": "kick_handler_not_found",
+        "strings": {
+            "ru": "Пользователь не указан.",
+            "uk": "Користувач не вказано.",
+            "en": "User not specified.",
+            "fr": "Utilisateur non spécifié."
+        }
+    },
+    {
+        "id": "userkickerror_not_found",
+        "strings": {
+            "ru": "Пользователь в голосовом канале не найден.",
+            "uk": "Користувача в голосовому каналі не знайдено.",
+            "en": "User not found in voice channel.",
+            "fr": "Utilisateur introuvable dans le chat vocal."
+        }
+    },
+    {
+        "id": "userkickerror_perms",
+        "strings": {
+            "ru": "Нет прав на отключение пользователя.",
+            "uk": "Немає прав на відключення користувача.",
+            "en": "No permissions to disconnect user.",
+            "fr": "Aucun droit de déconnecter l'utilisateur."
+        }
+    },
+    {
+        "id": "userownershiperror_perms",
+        "strings": {
+            "ru": "Не удалось передать право владения голосовым каналом.",
+            "uk": "Не вдалося передати право володіння голосовим каналом.",
+            "en": "Failed to transfer ownership of the voice channel.",
+            "fr": "Échec du transfert de propriété du chat vocal."
+        }
+    },
+    {
+        "id": "userkick",
+        "strings": {
+            "ru": "Пользователь выгнан из голосового канала",
+            "uk": "Користувач вигнаний із голосового каналу",
+            "en": "User kicked out of voice channel",
+            "fr": "Utilisateur expulsé du chat vocal"
+        }
+    },
+    {
+        "id": "userinvite",
+        "strings": {
+            "ru": "Пользователь приглашен в голосовой канал",
+            "uk": "Користувач запрошений до голосового каналу",
+            "en": "User invited to voice channel",
+            "fr": "Utilisateur invité sur le chat vocal"
+        }
+    },
+    {
+        "id": "modal_userinvite",
+        "strings": {
+            "ru": "Скопируй ссылку и отправь пользователю",
+            "uk": "Скопіюй посилання та відправь користувачу",
+            "en": "Copy the link and send it to the user",
+            "fr": "Copiez le lien et envoyez-le à l'utilisateur"
+        }
+    },
+    {
+        "id": "userbanerror_perms",
+        "strings": {
+            "ru": "Нет прав на блокировку пользователя.",
+            "uk": "Немає прав на блокування користувача.",
+            "en": "No permissions to ban user.",
+            "fr": "Aucun droit pour bloquer l'utilisateur."
+        }
+    },
+    {
+        "id": "usermuteerror_perms",
+        "strings": {
+            "ru": "Нет прав на отключение микрофона пользователя.",
+            "uk": "Немає прав на вимкнення мікрофона користувача.",
+            "en": "No permissions to mute user.",
+            "fr": "Aucun droit de désactiver le microphone de l'utilisateur."
+        }
+    },
+    {
+        "id": "userban",
+        "strings": {
+            "ru": "Пользователь заблокирован в голосовом канале",
+            "uk": "Користувач заблокований у голосовому каналі",
+            "en": "User banned in voice channel",
+            "fr": "Utilisateur bloqué dans le chat vocal"
+        }
+    },
+    {
+        "id": "userunban",
+        "strings": {
+            "ru": "Пользователь разблокирован в голосовом канале",
+            "uk": "Користувач розблоковано у голосовому каналі",
+            "en": "The user is unbanned in the voice channel",
+            "fr": "L'utilisateur est débloqué dans le chat vocal"
+        }
+    },
+    {
+        "id": "usermute",
+        "strings": {
+            "ru": "В голосовом канале отключен микрофон пользователя",
+            "uk": "У голосовому каналі вимкнено мікрофон користувача",
+            "en": "The user's microphone is muted in the voice channel",
+            "fr": "Le microphone de l'utilisateur est coupé dans le chat vocal"
+        }
+    },
+    {
+        "id": "userunmute",
+        "strings": {
+            "ru": "В голосовом канале отключена блокировка микрофона пользователя",
+            "uk": "У голосовому каналі вимкнено блокування мікрофона користувача",
+            "en": "User microphone blocking is disabled in the voice channel",
+            "fr": "Le blocage du microphone de l'utilisateur est désactivé dans le chat vocal"
+        }
+    },
+    {
+        "id": "voice_handler_no_permission",
+        "strings": {
+            "ru": "Действие недоступно в данной Категории.",
+            "uk": "Дія недоступна у цій Категорії.",
+            "en": "Action not available in this Category.",
+            "fr": "Action non disponible dans cette catégorie."
+        }
+    },
+    {
+        "id": "reset_handler_done",
+        "strings": {
+            "ru": "Настройки голосового канала успешно сброшены.",
+            "uk": "Налаштування голосового каналу успішно скинуто.",
+            "en": "Voice channel settings have been successfully reset.",
+            "fr": "Les paramètres du chat vocal ont été réinitialisés avec succès."
+        }
+    },
+    {
+        "id": "reset_handler_error",
+        "strings": {
+            "ru": "Настройки голосового канала не были сброшены.",
+            "uk": "Налаштування голосового каналу не було скинуто.",
+            "en": "Voice channel settings have not been reset.",
+            "fr": "Les paramètres du chat vocal n'ont pas été réinitialisés."
+        }
+    },
+    {
+        "id": "rename_handler_error",
+        "strings": {
+            "ru": "Голосовой канал не был переименован.",
+            "uk": "Голосовий канал не було перейменовано.",
+            "en": "The voice channel has not been renamed.",
+            "fr": "Le chat vocal n'a pas été renommé."
+        }
+    },
+    {
+        "id": "bitrate_handler_error",
+        "strings": {
+            "ru": "Битрейт голосового канала не был изменен.",
+            "uk": "Бітрейт голосового каналу не змінено.",
+            "en": "The bitrate of the voice channel has not been changed.",
+            "fr": "Le débit binaire du chat vocal n’a pas été modifié."
+        }
+    },
+    {
+        "id": "limit_handler_error",
+        "strings": {
+            "ru": "Лимит пользователей голосового канала не был изменен.",
+            "uk": "Ліміт користувачів голосового каналу не змінено.",
+            "en": "The voice channel user limit has not been changed.",
+            "fr": "La limite d'utilisateurs du chat vocal n'a pas été modifiée."
+        }
+    },
+    {
+        "id": "ephemeral_description_localizations",
+        "strings": {
+            "ru": "Вывести результат скрытно",
+            "uk": "Вивести результат потай",
+            "en": "Print result hidden",
+            "fr": "Résultat d'impression masqué"
+        }
+    },
+    {
+        "id": "name_value_description_localizations",
+        "strings": {
+            "ru": "Новое название голосового канала",
+            "uk": "Нова назва голосового каналу",
+            "en": "New voice channel name",
+            "fr": "Nouveau nom de chat vocal"
+        }
+    },
+    {
+        "id": "bitrate_value_description_localizations",
+        "strings": {
+            "ru": "Новое значение битрейта в голосовом канале",
+            "uk": "Нове значення бітрейту в голосовому каналі",
+            "en": "New bitrate value in the voice channel",
+            "fr": "Nouvelle valeur de débit dans le chat vocal"
+        }
+    },
+    {
+        "id": "limit_value_description_localizations",
+        "strings": {
+            "ru": "Новый лимит пользователей в голосовом канале",
+            "uk": "Новий ліміт користувачів у голосовому каналі",
+            "en": "New user limit in the voice channel",
+            "fr": "Nouvelle limite d'utilisateurs dans le chat vocal"
+        }
+    },
+    {
+        "id": "kick_value_description_localizations",
+        "strings": {
+            "ru": "Пользователь, которого следует выгнать",
+            "uk": "Користувач, якого слід вигнати",
+            "en": "User to kick",
+            "fr": "Utilisateur à expulser"
+        }
+    },
+    {
+        "id": "ban_value_description_localizations",
+        "strings": {
+            "ru": "Пользователь для (раз)блокировки",
+            "uk": "Користувач для (роз)блокування",
+            "en": "User to (un)ban",
+            "fr": "Utilisateur à (dé)verrouiller"
+        }
+    },
+    {
+        "id": "mute_value_description_localizations",
+        "strings": {
+            "ru": "Пользователь для (раз)блокировки микрофона",
+            "uk": "Користувач для (роз)блокування мікрофона",
+            "en": "User to (un)mute",
+            "fr": "Utilisateur pour (dé)verrouiller le microphone"
+        }
+    },
+    {
+        "id": "owner_value_description_localizations",
+        "strings": {
+            "ru": "Пользователь для передачи права владения голосовым каналом",
+            "uk": "Користувач для передачі права на володіння голосовим каналом",
+            "en": "User to transfer ownership of a voice channel",
+            "fr": "Utilisateur pour transférer la propriété d'un chat vocal"
+        }
+    },
+    {
+        "id": "rename_description_localizations",
+        "strings": {
+            "ru": "Переименовать голосовой канал",
+            "uk": "Перейменувати голосовий канал",
+            "en": "Rename voice channel",
+            "fr": "Renommer le chat vocal"
+        }
+    },
+    {
+        "id": "bitrate_description_localizations",
+        "strings": {
+            "ru": "Изменить битрейт голосового канала",
+            "uk": "Змінити бітрейт голосового каналу",
+            "en": "Change voice channel bitrate",
+            "fr": "Modifier le débit du chat vocal"
+        }
+    },
+    {
+        "id": "limit_description_localizations",
+        "strings": {
+            "ru": "Изменить лимит пользователей канала",
+            "uk": "Змінити ліміт користувачів голосового каналу",
+            "en": "Change voice channel user limit",
+            "fr": "Modifier la limite d'utilisateurs du chat"
+        }
+    },
+    {
+        "id": "kick_description_localizations",
+        "strings": {
+            "ru": "Выгнать пользователя из голосового канала",
+            "uk": "Вигнати користувача з голосового каналу",
+            "en": "Kick user from the voice channel",
+            "fr": "Expulser un utilisateur d'un chat vocal"
+        }
+    },
+    {
+        "id": "ban_description_localizations",
+        "strings": {
+            "ru": "Блокировка пользователя в голосовом канале",
+            "uk": "Блокування користувача у голосовому каналі",
+            "en": "Blocking a user in a voice channel",
+            "fr": "Bloquer un utilisateur dans un chat vocal"
+        }
+    },
+    {
+        "id": "mute_description_localizations",
+        "strings": {
+            "ru": "Блокировка микрофона пользователя в голосовом канале",
+            "uk": "Блокування мікрофона користувача у голосовому каналі",
+            "en": "Blocking the user's microphone in the voice channel",
+            "fr": "Bloquer le microphone de l'utilisateur dans le chat vocal"
+        }
+    },
+    {
+        "id": "reusechannelerror_setchannel",
+        "strings": {
+            "ru": "Не удалось переместить пользователя в новый канал. Отсутствует право Перемещать участников",
+            "uk": "Не вдалося перемістити користувача на новий канал. Немає дозволу на переміщення учасників",
+            "en": "Failed to move user to new channel. There is no permission to Move participants",
+            "fr": "Échec du déplacement de l'utilisateur vers une nouvelle chaîne. Il n'y a pas d'autorisation pour déplacer les participants"
+        }
+    },
+    {
+        "id": "reusechannelerror_channeledit",
+        "strings": {
+            "ru": "Не удалось переопределить настройки канала для его повторного использования",
+            "uk": "Не вдалося перевизначити налаштування каналу для його повторного використання",
+            "en": "Failed to override channel settings to reuse it",
+            "fr": "Échec de la substitution des paramètres du chat pour le réutiliser"
+        }
+    },
+    {
+        "id": "reusechannelerror_createchannel",
+        "strings": {
+            "ru": "Канал не был создан т.к у бота нет прав на создание каналов в категории",
+            "uk": "Канал не був створений тому що у бота немає прав на створення каналів у категорії",
+            "en": "The channel was not created because the bot does not have permissions to create channels in the category",
+            "fr": "La chaîne n'a pas été créée car le bot n'a pas le droit de créer des chaînes dans la catégorie"
+        }
+    },
+    {
+        "id": "app_tagline",
+        "strings": {
+            "ru": "Быстрые голосовые чаты с RoomCreator2",
+            "uk": "Швидкі голосові чати з RoomCreator2",
+            "en": "Quick voice chats with RoomCreator2",
+            "fr": "Chats vocaux rapides avec RoomCreator2"
+        }
+    },
+    {
+        "id": "app_description",
+        "strings": {
+            "ru": "RoomCreator2 позволяет по одному щелчку создавать персональные голосовые комнаты и управлять ими. Пустые чаты автоматически удаляются, чтобы содержать сервер в чистоте и порядке!",
+            "uk": "RoomCreator2 дозволяє по одному клацанню створювати персональні голосові кімнати та керувати ними.",
+            "en": "RoomCreator2 lets you create and manage your personal voice rooms with one click.",
+            "fr": "RoomCreator2 vous permet de créer et de gérer vos salles vocales personnelles en un seul clic."
+        }
+    },
+    {
+        "id": "label_usefullinks",
+        "strings": {
+            "ru": "Полезные ссылки",
+            "uk": "Корисні посилання",
+            "en": "Useful links",
+            "fr": "Liens utiles"
+        }
+    },
+    {
+        "id": "label_website",
+        "strings": {
+            "ru": "Сайт бота",
+            "uk": "Сайт бота",
+            "en": "Bot website",
+            "fr": "Site Web de robots"
+        }
+    },
+    {
+        "id": "label_prime",
+        "strings": {
+            "ru": "Prime-статус",
+            "uk": "Prime-статус",
+            "en": "Prime status",
+            "fr": "Prime statut"
+        }
+    },
+    {
+        "id": "label_stats",
+        "strings": {
+            "ru": "Активность на сервере",
+            "uk": "Активність на сервері",
+            "en": "Activity on the server",
+            "fr": "Activité sur le serveur"
+        }
+    },
+    {
+        "id": "stats_years",
+        "strings": {
+            "ru": "г. ",
+            "uk": "рік ",
+            "en": "y. ",
+            "fr": "année "
+        }
+    },
+    {
+        "id": "stats_months",
+        "strings": {
+            "ru": "мес. ",
+            "uk": "місяців ",
+            "en": "months ",
+            "fr": "mois "
+        }
+    },
+    {
+        "id": "stats_days",
+        "strings": {
+            "ru": "дн. ",
+            "uk": "днів ",
+            "en": "days ",
+            "fr": "jours "
+        }
+    },
+    {
+        "id": "stats_hours",
+        "strings": {
+            "ru": "ч. ",
+            "uk": "години",
+            "en": "hrs. ",
+            "fr": "heures "
+        }
+    },
+    {
+        "id": "stats_mins",
+        "strings": {
+            "ru": "мин. ",
+            "uk": "хв. ",
+            "en": "mins. ",
+            "fr": "minutes "
+        }
+    },
+    {
+        "id": "label_stats_this_month",
+        "strings": {
+            "ru": "В этом месяце",
+            "uk": "У цьому місяці",
+            "en": "This month",
+            "fr": "Ce mois-ci"
+        }
+    },
+    {
+        "id": "label_stats_channels",
+        "strings": {
+            "ru": "Создано каналов",
+            "uk": "Створено каналів",
+            "en": "Channels created",
+            "fr": "Chaînes créées"
+        }
+    },
+    {
+        "id": "label_stats_users",
+        "strings": {
+            "ru": "Количество пользователей",
+            "uk": "Кількість користувачів",
+            "en": "Number of users",
+            "fr": "Nombre d'utilisateurs"
+        }
+    },
+    {
+        "id": "label_stats_time",
+        "strings": {
+            "ru": "Проведено время в каналах",
+            "uk": "Проведено час у каналах",
+            "en": "Time spent in the channels",
+            "fr": "Temps passé dans les channel"
+        }
+    },
+    {
+        "id": "label_admin",
+        "strings": {
+            "ru": "Админ-панель",
+            "uk": "Адмін панель",
+            "en": "Admin panel",
+            "fr": "Panneau d'administration"
+        }
+    },
+    {
+        "id": "label_admin_description",
+        "strings": {
+            "ru": "Изменить конфигурацию бота можно по ссылке:",
+            "uk": "Змінити конфігурації бота можна за посиланням:",
+            "en": "You can change the bot's configuration using this link:",
+            "fr": "Vous pouvez modifier la configuration du bot en utilisant ce lien:"
+        }
+    },
+    {
+        "id": "privacy_description_localizations",
+        "strings": {
+            "ru": "Блокировка/скрытие голосового канала",
+            "uk": "Блокування/приховування голосового каналу",
+            "en": "Blocking/hiding a voice channel",
+            "fr": "Bloquer/masquer un chat vocal"
+        }
+    },
+    {
+        "id": "privacy_value_description_localizations",
+        "strings": {
+            "ru": "Режим приватности",
+            "uk": "Режим приватності",
+            "en": "Privacy mode",
+            "fr": "Mode de confidentialité"
+        }
+    },
+    {
+        "id": "privacy_perms",
+        "strings": {
+            "ru": "Нет прав для обновления настроек голосового канала",
+            "uk": "Немає прав для оновлення налаштувань голосового каналу",
+            "en": "No permissions to update voice channel settings",
+            "fr": "Aucun droit de mettre à jour les paramètres du chat vocal"
+        }
+    },
+    {
+        "id": "privacymode",
+        "strings": {
+            "ru": "Переключены настройки приватности голосового канала",
+            "uk": "Переключено налаштування приватності голосового каналу",
+            "en": "Voice channel privacy settings switched",
+            "fr": "Paramètres de confidentialité du chat vocal modifiés"
+        }
+    },
+    {
+        "id": "invite_description_localizations",
+        "strings": {
+            "ru": "Отправить пользователю приглашение в голосовой канал",
+            "uk": "Надіслати користувачеві запрошення до голосового каналу",
+            "en": "Send a user an invitation to a voice channel",
+            "fr": "Envoyer à un utilisateur une invitation à un chat vocal"
+        }
+    },
+    {
+        "id": "invite_value_description_localizations",
+        "strings": {
+            "ru": "Пользователь для приглашения",
+            "uk": "Користувач для запрошення",
+            "en": "User to invite",
+            "fr": "Utilisateur à inviter"
+        }
+    },
+    {
+        "id": "userinvitemessage",
+        "strings": {
+            "ru": "отправил приглашение присоединиться к голосовому каналу",
+            "uk": "надіслав запрошення приєднатися до голосового каналу",
+            "en": "sent an invitation to join the voice channel",
+            "fr": "envoyé une invitation à rejoindre le chat vocal"
+        }
+    }
+]

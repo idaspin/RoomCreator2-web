@@ -1,0 +1,1333 @@
+{
+    "app_title": {
+        "ru": "Быстрые голосовые чаты с RoomCreator2",
+        "uk": "Швидкі голосові чати з RoomCreator2",
+        "en": "Quick voice chats with RoomCreator2",
+        "fr": "Chats vocaux rapides avec RoomCreator2"
+    },
+    "app_description": {
+        "ru": "RoomCreator2 позволяет по одному щелчку создавать персональные голосовые комнаты и управлять ими. Пустые чаты автоматически удаляются, чтобы содержать сервер в чистоте и порядке!",
+        "uk": "RoomCreator2 дозволяє по одному клацанню створювати персональні голосові кімнати та керувати ними. ",
+        "en": "RoomCreator2 lets you create and manage your personal voice rooms with one click. ",
+        "fr": "RoomCreator2 vous permet de créer et de gérer vos salles vocales personnelles en un seul clic. "
+    },
+    "page_premium": {
+        "ru": "Премиум",
+        "uk": "Преміум",
+        "en": "Prime status",
+        "fr": "Prime"
+    },
+    "page_server": {
+        "ru": "Оф. сервер",
+        "uk": "Оф. ",
+        "en": "Support-server",
+        "fr": "Serveur de support"
+    },
+    "page_terms": {
+        "ru": "Условия использования",
+        "uk": "Умови використання",
+        "en": "Terms of Use",
+        "fr": "Conditions d'utilisation"
+    },
+    "page_faq": {
+        "ru": "Часто задаваемые вопросы",
+        "uk": "Запитання й Відповіді",
+        "en": "Frequently Asked Questions",
+        "fr": "Foire aux questions"
+    },
+    "page_privacy": {
+        "ru": "Политика конфиденциальности",
+        "uk": "Політика конфіденційності",
+        "en": "Privacy Policy",
+        "fr": "politique de confidentialité"
+    },
+    "page_configure": {
+        "ru": "Панель управления",
+        "uk": "Панель управління",
+        "en": "Configure RC2",
+        "fr": "Configurer RC2"
+    },
+    "app_tagline": {
+        "ru": "Быстрые голосовые чаты с RoomCreator2",
+        "uk": "Швидкі голосові чати з RoomCreator2",
+        "en": "Quick voice chats with RoomCreator2",
+        "fr": "Chats vocaux rapides avec RoomCreator2"
+    },
+    "cta_invite": {
+        "ru": "Добавить на сервер",
+        "uk": "Додати на сервер",
+        "en": "Add to server",
+        "fr": "Ajouter au serveur"
+    },
+    "cta_panel": {
+        "ru": "Панель управления",
+        "uk": "Панель управління",
+        "en": "Control Panel",
+        "fr": "Panneau de contrôle"
+    },
+    "cta_home": {
+        "ru": "На главную",
+        "uk": "На головну",
+        "en": "Home Page",
+        "fr": "Page d'accueil"
+    },
+    "notification_language_error": {
+        "ru": "Эта страница не доступна на вашем языке",
+        "uk": "Ця сторінка не доступна вашою мовою",
+        "en": "This page is not available in your language",
+        "fr": "Cette page n'est pas disponible dans votre langue"
+    },
+    "notification_language_translations": {
+        "ru": "Доступные переводы",
+        "uk": "Доступні переклади",
+        "en": "Available translations",
+        "fr": "Traductions disponibles"
+    },
+    "notification_language_cta": {
+        "ru": "Хочешь помочь с переводом?",
+        "uk": "Хочеш допомогти з перекладом?",
+        "en": "Wanna contribute to a project's translation?",
+        "fr": "Vous souhaitez contribuer à la traduction d'un projet ?"
+    },
+    "auth_form__cta": {
+        "ru": "Войти через Discord",
+        "uk": "Увійти через Discord",
+        "en": "Login with Discord",
+        "fr": "Connectez-vous avec Discord"
+    },
+    "user_logout": {
+        "ru": "Выйти",
+        "uk": "Вийти",
+        "en": "Log out",
+        "fr": "Se déconnecter"
+    },
+    "configure_auth_title": {
+        "ru": "Страница конфигурации RoomCreator2",
+        "uk": "Сторінка конфігурації RoomCreator2",
+        "en": "RoomCreator2 Configuration page",
+        "fr": "Page de configuration de RoomCreator2"
+    },
+    "configure_auth_paragraph": {
+        "ru": "Чтобы получить доступ к этой странице, вам необходимо войти в систему под своей учетной записью Discord.",
+        "uk": "Щоб отримати доступ до цієї сторінки, вам необхідно увійти в систему під обліковим записом Discord.",
+        "en": "You need to login with your Discord account to access this feature.",
+        "fr": "Vous devez vous connecter avec votre compte Discord pour accéder à cette fonctionnalité."
+    },
+    "guild_select_owner": {
+        "ru": "Владелец",
+        "uk": "Власник",
+        "en": "Owner",
+        "fr": "Propriétaire"
+    },
+    "guild_select_master": {
+        "ru": "Администратор",
+        "uk": "Адміністратор",
+        "en": "Bot master",
+        "fr": "Maître des robots"
+    },
+    "guild_select_pending": {
+        "ru": "Проверка...",
+        "uk": "Перевірка...",
+        "en": "Pending...",
+        "fr": "En attente..."
+    },
+    "guild_select_setup": {
+        "ru": "Настроить",
+        "uk": "Налаштувати",
+        "en": "Setup",
+        "fr": "Installation"
+    },
+    "guild_select_invite": {
+        "ru": "Пригласить",
+        "uk": "Запросити",
+        "en": "Invite",
+        "fr": "Inviter"
+    },
+    "guild_select_message": {
+        "ru": "Выбери сервер",
+        "uk": "Вибери сервер",
+        "en": "Select a server",
+        "fr": "Sélectionnez un serveur"
+    },
+    "guild_select_date": {
+        "ru": "Последний визит",
+        "uk": "Останній візит",
+        "en": "Last visit"
+    },
+    "guild_select_date_locale": {
+        "ru": "ru",
+        "uk": "uk",
+        "en": "en-GB",
+        "fr": "fr"
+    },
+    "configure_wrong_guild_id": {
+        "ru": "Недействительный ID сервера.",
+        "uk": "Недійсний ID сервера.",
+        "en": "Invalid server ID.",
+        "fr": "ID de serveur invalide."
+    },
+    "configure_wrong_guild": {
+        "ru": "Пригласите бота на сервер для доступа к этой странице.",
+        "uk": "Запросіть бота на сервер для доступу до цієї сторінки.",
+        "en": "Invite a bot to the server to access this page.",
+        "fr": "Invitez un bot sur le serveur pour accéder à cette page."
+    },
+    "langswitcher_lang": {
+        "ru": "Добавить другой язык?",
+        "uk": "Додати іншу мову?",
+        "en": "Add another language?",
+        "fr": "Ajouter une autre langue ?"
+    },
+    "configure_servers_title": {
+        "ru": "Сервера не найдены",
+        "uk": "Сервера не знайдено",
+        "en": "No servers found",
+        "fr": "Aucun serveur trouvé"
+    },
+    "configure_servers_paragraph": {
+        "ru": "Не удалось найти ни одного сервера, с правами администратора у вас.",
+        "uk": "Не вдалося знайти жодного сервера з правами адміністратора у вас.",
+        "en": "We could not find a single server with administrator permissions.",
+        "fr": "Nous n'avons pas trouvé un seul serveur avec des autorisations d'administrateur."
+    },
+    "configure_language_label": {
+        "ru": "Язык сообщений на сервере",
+        "uk": "Мова повідомлень на сервері",
+        "en": "Language of messages on the server",
+        "fr": "Langue des messages sur le serveur"
+    },
+    "configure_logs_levels_news": {
+        "ru": "Новости",
+        "uk": "Новини",
+        "en": "News",
+        "fr": "Nouvelles"
+    },
+    "configure_logs_levels_channels": {
+        "ru": "Каналы",
+        "uk": "Канали",
+        "en": "Channels",
+        "fr": "Canaux"
+    },
+    "configure_logs_levels_settings": {
+        "ru": "Настройки",
+        "uk": "Налаштування",
+        "en": "Settings",
+        "fr": "Paramètres"
+    },
+    "configure_logs_levels_errors": {
+        "ru": "Ошибки",
+        "uk": "Помилки",
+        "en": "Errors",
+        "fr": "les erreurs"
+    },
+    "configure_logs_levels_commands": {
+        "ru": "Команды",
+        "uk": "Команди",
+        "en": "Commands",
+        "fr": "Commandes"
+    },
+    "configure_logs_channel_label": {
+        "ru": "Выбери канал для логов",
+        "uk": "Вибери канал для логів",
+        "en": "Choose a channel for logs",
+        "fr": "Choisissez un canal pour les journaux"
+    },
+    "configure_mods_label": {
+        "ru": "Выбери роли",
+        "uk": "Вибери ролі",
+        "en": "Choose roles",
+        "fr": "Choisissez des rôles"
+    },
+    "app_title_header": {
+        "ru": "RoomCreator2",
+        "uk": "RoomCreator2",
+        "en": "RoomCreator2",
+        "fr": "RoomCreator2"
+    },
+    "page_configure_list": {
+        "ru": "Выбери сервер для настройки",
+        "uk": "Вибери сервер для налаштування",
+        "en": "Select a server to configure",
+        "fr": "Sélectionnez un serveur à configurer"
+    },
+    "page_configure_guild": {
+        "ru": "Настройка сервера",
+        "uk": "Налаштування сервера",
+        "en": "Server configuration",
+        "fr": "Configuration du serveur"
+    },
+    "roomname_chat": {
+        "ru": "Чат",
+        "uk": "Чат",
+        "en": "Chat",
+        "fr": "Chat"
+    },
+    "roomname_room": {
+        "ru": "Комната",
+        "uk": "Кімната",
+        "en": "Room",
+        "fr": "Chambre"
+    },
+    "roomname_channel": {
+        "ru": "Канал",
+        "uk": "Канал",
+        "en": "Channel",
+        "fr": "Canal"
+    },
+    "roomname_number": {
+        "ru": "Порядковый номер",
+        "uk": "Порядковий номер",
+        "en": "Ordinal number",
+        "fr": "Nombre ordinal"
+    },
+    "roomname_username": {
+        "ru": "Никнейм",
+        "uk": "Нікнейм",
+        "en": "Nickname",
+        "fr": "Surnom"
+    },
+    "controls_labels_off": {
+        "ru": "Выключено",
+        "uk": "Вимкнено",
+        "en": "Turned off",
+        "fr": "Éteindre"
+    },
+    "controls_labels_embed": {
+        "ru": "В сообщении",
+        "uk": "У повідомленні",
+        "en": "In the message",
+        "fr": "Dans le message"
+    },
+    "controls_labels_buttons": {
+        "ru": "В кнопках",
+        "uk": "У кнопках",
+        "en": "In the buttons",
+        "fr": "Dans les boutons"
+    },
+    "button_rename": {
+        "ru": "Переименовать",
+        "uk": "Перейменувати",
+        "en": "Rename",
+        "fr": "Renommer"
+    },
+    "button_bitrate": {
+        "ru": "Битрейт",
+        "uk": "Бітрейт",
+        "en": "Bitrate",
+        "fr": "Débit"
+    },
+    "button_limit": {
+        "ru": "Лимит пользователей",
+        "uk": "Ліміт користувачів",
+        "en": "User limit",
+        "fr": "Limite d'utilisateurs"
+    },
+    "button_privacy": {
+        "ru": "Приватность",
+        "uk": "Приватність",
+        "en": "Privacy",
+        "fr": "Confidentialité"
+    },
+    "button_kick": {
+        "ru": "Выгнать",
+        "uk": "Вигнати",
+        "en": "Kick out",
+        "fr": "Expulser"
+    },
+    "button_ban": {
+        "ru": "Заблокировать",
+        "uk": "Заблокувати",
+        "en": "Ban",
+        "fr": "Interdire"
+    },
+    "button_mute": {
+        "ru": "Заглушить",
+        "uk": "Заглушити",
+        "en": "Mute",
+        "fr": "Muet"
+    },
+    "button_owner": {
+        "ru": "Передача прав",
+        "uk": "Передача прав",
+        "en": "Transfer ownership",
+        "fr": "Transfert de propriété"
+    },
+    "button_reset": {
+        "ru": "Сбросить настройки",
+        "uk": "Скинути налаштування",
+        "en": "Reset settings",
+        "fr": "Réinitialiser les options"
+    },
+    "button_invite": {
+        "ru": "Создать приглашение",
+        "uk": "Створити запрошення",
+        "en": "Create an invite",
+        "fr": "Créer une invitation"
+    },
+    "dbguild_submit_success": {
+        "ru": "Настройки сервера успешно сохранены!",
+        "uk": "Параметри сервера успішно збережені!",
+        "en": "Server settings successfully saved!",
+        "fr": "Paramètres du serveur enregistrés avec succès !"
+    },
+    "dbguild_submit_failure": {
+        "ru": "Что-то пошло не так ¯\\_(ツ)_/¯",
+        "uk": "Щось пішло не так ?",
+        "en": "Something went wrong ¯\\_(ツ)_/¯",
+        "fr": "Quelque chose s'est mal passé ¯\\_(ツ)_/¯"
+    },
+    "dbguild_label_header": {
+        "ru": "Создан голосовой чат",
+        "uk": "Створено голосовий чат",
+        "en": "Voice chat created",
+        "fr": "Chat vocal créé"
+    },
+    "dbguild_label_owner": {
+        "ru": "Владелец",
+        "uk": "Власник",
+        "en": "Owner",
+        "fr": "Propriétaire"
+    },
+    "dbguild_header_prime": {
+        "ru": "Прайм-статус",
+        "uk": "Прайм-статус",
+        "en": "Prime status",
+        "fr": "Statut privilégié"
+    },
+    "dbguild_prime_date": {
+        "ru": "Прайм выдан",
+        "uk": "Прайм видано",
+        "en": "Prime issued",
+        "fr": "Premier émis"
+    },
+    "dbguild_prime_off": {
+        "ru": "Прайм не предоставлен",
+        "uk": "Прайм не надано",
+        "en": "Prime not provided",
+        "fr": "Prime non fournie"
+    },
+    "dbguild_header_logs": {
+        "ru": "Логирование",
+        "uk": "Логування",
+        "en": "Logging",
+        "fr": "Enregistrement"
+    },
+    "logs_levels_label": {
+        "ru": "Разрешенные типы логов",
+        "uk": "Дозволені типи логів",
+        "en": "Allowed log types",
+        "fr": "Types de journaux autorisés"
+    },
+    "logs_levels_placeholder": {
+        "ru": "Нет подходящих вариантов",
+        "uk": "Немає відповідних варіантів",
+        "en": "No suitable options",
+        "fr": "Aucune option appropriée"
+    },
+    "logs_levels_modal_description": {
+        "ru": "В зависимости от выбранных уровней логирования в настройках, мы будем выбирать: какую информацию стоит вам отправлять, а какую - нет.",
+        "uk": "Залежно від обраних рівнів логування в налаштуваннях, ми вибиратимемо: яку інформацію варто вам надсилати, а яку - ні.",
+        "en": "Depending on the selected logging levels in the settings, we will choose what information should be sent to you and what not.",
+        "fr": "En fonction des niveaux de journalisation sélectionnés dans les paramètres, nous choisirons quelles informations doivent vous être envoyées ou non."
+    },
+    "logs_levels_modal_news": {
+        "ru": "Новости - патч-ноуты и иные обновления проекта.",
+        "uk": "Новини - патч-ноути та інші оновлення проекту.",
+        "en": "News - patch notes and other project updates.",
+        "fr": "Actualités - notes de mise à jour et autres mises à jour du projet."
+    },
+    "logs_levels_modal_channels": {
+        "ru": "Каналы - создание/удаление и изменение каналов.",
+        "uk": "Канали - створення/видалення та зміна каналів.",
+        "en": "Channels - creating/deleting and updating channels.",
+        "fr": "Canaux - création/suppression et mise à jour de canaux."
+    },
+    "logs_levels_modal_settings": {
+        "ru": "Настройки - уведомления об изменении настроек сервера.",
+        "uk": "Установки – сповіщення про зміну установок сервера.",
+        "en": "Settings - notifications about changes to server settings.",
+        "fr": "Paramètres - notifications sur les modifications apportées aux paramètres du serveur."
+    },
+    "logs_levels_modal_errors": {
+        "ru": "Ошибки - сообщения о неисправностях.",
+        "uk": "Помилки – повідомлення про несправності.",
+        "en": "Errors - messages about malfunctions.",
+        "fr": "Erreurs - messages sur les dysfonctionnements."
+    },
+    "logs_levels_modal_commands": {
+        "ru": "Команды - логирование использований команд бота.",
+        "uk": "Команди – логування використання команд бота.",
+        "en": "Commands - logging the use of bot commands.",
+        "fr": "Commandes - journalisation de l'utilisation des commandes du bot."
+    },
+    "logs_webhook_label": {
+        "ru": "Вебхук-ссылка для канала логов",
+        "uk": "Вебхук-посилання для каналу логів",
+        "en": "Webhook link for the log channel",
+        "fr": "Lien Webhook pour le canal de journalisation"
+    },
+    "logs_webhook_modal_header": {
+        "ru": "Как настроить Webhook и зачем он нужен?",
+        "uk": "Як настроїти Webhook і навіщо він потрібен?",
+        "en": "How to set up Webhook and why is it needed?",
+        "fr": "Comment configurer Webhook et pourquoi est-il nécessaire ?"
+    },
+    "logs_webhook_modal_why": {
+        "ru": "В первую очередь мы отдаем предпочтение вебхукам в опозицию классическому методу из за кол-ва промежуточных действий необходимых для отправки сообщения в канал, что в свою очередь может благополучно повлиять на быстродействие бота.",
+        "uk": "Насамперед ми віддаємо перевагу вебхукам в опозицію класичному методу з-за проміжних дій необхідних для відправки повідомлення в канал, що в свою чергу може благополучно вплинути на швидкодію робота.",
+        "en": "First of all, we give preference to webhooks over the classic method due to the number of intermediate actions required to send a message to the channel, which in turn can positively affect the performance of the bot.",
+        "fr": "Tout d'abord, nous privilégions les webhooks par rapport à la méthode classique en raison du nombre d'actions intermédiaires nécessaires pour envoyer un message au canal, ce qui peut à son tour affecter positivement les performances du bot."
+    },
+    "logs_webhook_modal_how": {
+        "ru": "Для получения ссылки необходимо зайти в настройки текстового канала, перейти во вкладку \"Интеграция\". Затем в меню \"Вебхуки\" создаем новый и раскрываем для копирования ссылки.",
+        "uk": "Щоб отримати посилання, необхідно зайти в налаштування текстового каналу, перейти у вкладку \"Інтеграція\". ",
+        "en": "To receive the link, you need to go to the text channel settings, go to the \"Integration\" tab. ",
+        "fr": "Pour recevoir le lien, vous devez vous rendre dans les paramètres du canal texte, allez dans l'onglet \"Intégration\". "
+    },
+    "logs_channel_label": {
+        "ru": "Канал для публикации логов",
+        "uk": "Канал для публікації логів",
+        "en": "Channel for publishing logs",
+        "fr": "Canal de publication des journaux"
+    },
+    "logs_channel_modal_description": {
+        "ru": "Выберите канал в котором будут публиковаться логи. А также убедитесь, что в данном канале боту предоставлены права: Просмотр канала, Публикация сообщений, Прикрепление файлов.",
+        "uk": "Виберіть канал, у якому будуть публікуватися логи. ",
+        "en": "Select the channel in which the logs will be published. ",
+        "fr": "Sélectionnez le canal dans lequel les journaux seront publiés. "
+    },
+    "logs_channel_placeholder": {
+        "ru": "Каналы не найдены",
+        "uk": "Канали не знайдено",
+        "en": "No channels found",
+        "fr": "Aucune chaîne trouvée"
+    },
+    "dbguild_header_mods": {
+        "ru": "Модераторы",
+        "uk": "Модератори",
+        "en": "Moderators",
+        "fr": "Modérateurs"
+    },
+    "mods_default_label": {
+        "ru": "Роли с правами администратора",
+        "uk": "Ролі з правами адміністратора",
+        "en": "Admin roles",
+        "fr": "Rôles d'administrateur"
+    },
+    "mods_placeholder": {
+        "ru": "Роли не найдены",
+        "uk": "Ролі не знайдено",
+        "en": "No roles found",
+        "fr": "Aucun rôle trouvé"
+    },
+    "mods_custom_label": {
+        "ru": "Дополнительные роли",
+        "uk": "Додаткові ролі",
+        "en": "Additional roles",
+        "fr": "Rôles supplémentaires"
+    },
+    "mods_custom_description": {
+        "ru": "Роли, которые также будут открывать доступ к настройкам бота на сервере, даже если нет прав администратора.",
+        "uk": "Ролі, які також відкриватимуть доступ до налаштувань бота на сервері, навіть якщо немає прав адміністратора.",
+        "en": "Roles that will also provide access to the bot’s settings on the server, even if there are no administrator rights.",
+        "fr": "Des rôles qui permettront également d’accéder aux paramètres du bot sur le serveur, même s’il n’y a pas de droits d’administrateur."
+    },
+    "dbguild_header_inherits": {
+        "ru": "Наследумые настройки",
+        "uk": "Спадкові налаштування",
+        "en": "Inherited settings",
+        "fr": "Paramètres hérités"
+    },
+    "dbguild_header_defaults": {
+        "ru": "Опции по умолчанию",
+        "uk": "Параметри за замовчуванням",
+        "en": "Default Options",
+        "fr": "Options par défaut"
+    },
+    "dbguild_header_reset": {
+        "ru": "Сброс настроек при перезаходе",
+        "uk": "Скидання налаштувань під час перезаходу",
+        "en": "Reset settings on reboot",
+        "fr": "Réinitialiser les paramètres au redémarrage"
+    },
+    "modal_reset_description": {
+        "ru": "Если будучи в пустом голосовом канале RoomCreator-а пользователь перейдет в триггер-канал, бот не станет создавать новую комнату, но вернет пользователя назад. Опция определяет сбрасывать ли настройки канала в этом случае или нет.",
+        "uk": "Якщо в порожньому голосовому каналі RoomCreator-а користувач перейде в тригер-канал, бот не стане створювати нову кімнату, але поверне користувача назад. ",
+        "en": "If, while in RoomCreator's empty voice channel, the user goes to the trigger channel, the bot will not create a new room, but will return the user back. ",
+        "fr": "Si, alors qu'il est dans le canal vocal vide de RoomCreator, l'utilisateur accède au canal de déclenchement, le bot ne créera pas de nouvelle salle, mais ramènera l'utilisateur. "
+    },
+    "dbguild_header_filter": {
+        "ru": "Фильтровать названия каналов",
+        "uk": "Фільтрувати назви каналів",
+        "en": "Filter channel names",
+        "fr": "Filtrer les noms des canaux"
+    },
+    "dbguild_header_locked": {
+        "ru": "Комнаты закрыты по умолчанию",
+        "uk": "Кімнати закриті за замовчуванням",
+        "en": "Rooms are locked by default",
+        "fr": "Les chambres sont verrouillées par défaut"
+    },
+    "modal_locked_description": {
+        "ru": "В созданном канале в правах для участников сервера (@everyone) будет заблокирован доступ в канал.",
+        "uk": "У створеному каналі в правах для учасників сервера (@everyone) буде заблоковано доступ до каналу.",
+        "en": "In the created channel, the permissions for server participants (@everyone) will block access to the channel.",
+        "fr": "Dans le canal créé, les autorisations des participants du serveur (@tout le monde) bloqueront l'accès au canal."
+    },
+    "dbguild_header_hidden": {
+        "ru": "Комнаты скрыты по умолчанию",
+        "uk": "Кімнати приховані за замовчуванням",
+        "en": "Rooms are hidden by default",
+        "fr": "Les salles sont masquées par défaut"
+    },
+    "modal_hidden_description": {
+        "ru": "В созданном канале в правах для участников сервера (@everyone) будет заблокирована видимость канала.",
+        "uk": "У створеному каналі в правах для учасників сервера (@everyone) буде заблоковано видимість каналу.",
+        "en": "In the created channel, the rights for server participants (@everyone) will block the visibility of the channel.",
+        "fr": "Dans la chaîne créée, les droits des participants au serveur (@tout le monde) bloqueront la visibilité de la chaîne."
+    },
+    "dbguild_header_bitrate": {
+        "ru": "Битрейт по умолчанию (kbps)",
+        "uk": "Бітрейт за замовчуванням (kbps)",
+        "en": "Default bitrate (kbps)",
+        "fr": "Débit binaire par défaut (kbps)"
+    },
+    "modal_bitrate_description": {
+        "ru": "Максимально доступный битрейт зависит от уровня буста сервера.",
+        "uk": "Максимально доступний бітрейт залежить від рівня буста сервера.",
+        "en": "The maximum available bitrate depends on the server boost level.",
+        "fr": "Le débit binaire maximum disponible dépend du niveau de boost du serveur."
+    },
+    "dbguild_header_userlimit": {
+        "ru": "Лимит пользователей по умолчанию",
+        "uk": "Ліміт користувачів за замовчуванням",
+        "en": "Default user limit",
+        "fr": "Limite d'utilisateurs par défaut"
+    },
+    "dbguild_header_title": {
+        "ru": "Название канала по умолчанию",
+        "uk": "Назва каналу за промовчанням",
+        "en": "Default channel name",
+        "fr": "Nom de la chaîne par défaut"
+    },
+    "modal_title_description": {
+        "ru": "Первая часть названия создаваемых каналов.",
+        "uk": "Перша частина назви створюваних каналів.",
+        "en": "The first part of the name of the created channels.",
+        "fr": "La première partie du nom des chaînes créées."
+    },
+    "modal_title_placeholder": {
+        "ru": "Доступные названия",
+        "uk": "Доступні назви",
+        "en": "Available titles",
+        "fr": "Titres disponibles"
+    },
+    "modal_title_nooptions": {
+        "ru": "Варианты не найдены",
+        "uk": "Варіантів не знайдено",
+        "en": "No options found",
+        "fr": "Aucune option trouvée"
+    },
+    "dbguild_header_subtitle": {
+        "ru": "Подзаголовок канала",
+        "uk": "Підзаголовок каналу",
+        "en": "Channel subtitle",
+        "fr": "Sous-titre de la chaîne"
+    },
+    "modal_subtitle_description": {
+        "ru": "Порядковый номер либо ник пользователя в качестве второй части названия канала.",
+        "uk": "Порядковий номер або нік користувача як друга частина назви каналу.",
+        "en": "Ordinal number or user nickname as the second part of the channel name.",
+        "fr": "Numéro ordinal ou surnom de l'utilisateur comme deuxième partie du nom de la chaîne."
+    },
+    "dbguild_header_custom": {
+        "ru": "Кастомное название канала",
+        "uk": "Кастомна назва каналу",
+        "en": "Custom channel name",
+        "fr": "Nom de chaîne personnalisé"
+    },
+    "dbguild_header_custom_text": {
+        "ru": "Текст кастомного названия",
+        "uk": "Текст кастомної назви",
+        "en": "Custom title text",
+        "fr": "Texte de titre personnalisé"
+    },
+    "dbguild_header_perms": {
+        "ru": "Разрешения на управление каналом",
+        "uk": "Дозволи на керування каналом",
+        "en": "Channel management permissions",
+        "fr": "Autorisations de gestion des chaînes"
+    },
+    "dbguild_header_perms_rename": {
+        "ru": "Переименование",
+        "uk": "Перейменування",
+        "en": "Renaming",
+        "fr": "Renommer"
+    },
+    "dbguild_header_perms_limit": {
+        "ru": "Лимит пользователей",
+        "uk": "Ліміт користувачів",
+        "en": "User limit",
+        "fr": "Limite d'utilisateurs"
+    },
+    "dbguild_header_perms_bitrate": {
+        "ru": "Битрейт",
+        "uk": "Бітрейт",
+        "en": "Bitrate",
+        "fr": "Débit"
+    },
+    "dbguild_header_perms_privacy": {
+        "ru": "Приватность",
+        "uk": "Приватність",
+        "en": "Privacy",
+        "fr": "Confidentialité"
+    },
+    "dbguild_header_perms_ban": {
+        "ru": "Блокировать пользователей",
+        "uk": "Блокувати користувачів",
+        "en": "Ban users",
+        "fr": "Interdire les utilisateurs"
+    },
+    "dbguild_header_perms_kick": {
+        "ru": "Выгонять участников",
+        "uk": "Виганяти учасників",
+        "en": "Kick out participants",
+        "fr": "Expulser les participants"
+    },
+    "dbguild_header_perms_mute": {
+        "ru": "Отключать микрофон",
+        "uk": "Вимикати мікрофон",
+        "en": "Mute microphone",
+        "fr": "Couper le microphone"
+    },
+    "dbguild_header_notifs": {
+        "ru": "Уведомления в общий текстовый канал",
+        "uk": "Повідомлення у спільний текстовий канал",
+        "en": "Notifications to a shared text channel",
+        "fr": "Notifications sur un canal de texte partagé"
+    },
+    "dbguild_header_messages": {
+        "ru": "Разрешить публикацию сообщений",
+        "uk": "Дозволити публікацію повідомлень",
+        "en": "Allow posting messages",
+        "fr": "Autoriser la publication de messages"
+    },
+    "dbguild_header_invite": {
+        "ru": "Публиковать ссылку-приглашение",
+        "uk": "Опублікувати посилання-запрошення",
+        "en": "Publish an invitation link",
+        "fr": "Publier un lien d'invitation"
+    },
+    "dbguild_header_embed": {
+        "ru": "Embed сообщение",
+        "uk": "Embed повідомлення",
+        "en": "Embed message",
+        "fr": "Intégrer le message"
+    },
+    "dbguild_header_message_custom": {
+        "ru": "Отображать свой текст в оповещениях",
+        "uk": "Відображати свій текст у сповіщеннях",
+        "en": "Show custom text in notifications",
+        "fr": "Afficher du texte personnalisé dans les notifications"
+    },
+    "dbguild_header_message_custom_text": {
+        "ru": "Кастомный текст",
+        "uk": "Кастомний текст",
+        "en": "Custom text",
+        "fr": "Texte personnalisé"
+    },
+    "dbguild_header_controls": {
+        "ru": "Отображать кнопки управления каналом",
+        "uk": "Відображати кнопки керування каналом",
+        "en": "Show channel control buttons",
+        "fr": "Afficher les boutons de contrôle des chaînes"
+    },
+    "dbguild_header_labels": {
+        "ru": "Подписи кнопок",
+        "uk": "Підписи кнопок",
+        "en": "Button labels",
+        "fr": "Étiquettes des boutons"
+    },
+    "dbguild_header_labels_nooptions": {
+        "ru": "Варианты не найдены",
+        "uk": "Варіантів не знайдено",
+        "en": "No options found",
+        "fr": "Aucune option trouvée"
+    },
+    "dbguild_header_color": {
+        "ru": "Акцентный цвет",
+        "uk": "Акцентний колір",
+        "en": "Accent color",
+        "fr": "Couleur d'accentuation"
+    },
+    "dbguild_header_color_nooptions": {
+        "ru": "Варианты не найдены",
+        "uk": "Варіантів не знайдено",
+        "en": "No options found",
+        "fr": "Aucune option trouvée"
+    },
+    "dbguild_header_control": {
+        "ru": "Уведомления в текстовой чат голосового канала",
+        "uk": "Повідомлення у текстовому чаті голосового каналу",
+        "en": "Notifications in the text chat of the voice channel",
+        "fr": "Notifications dans le chat textuel du canal vocal"
+    },
+    "dbguild_canvas_bot": {
+        "ru": "БОТ",
+        "uk": "БОТ",
+        "en": "BOT",
+        "fr": "BOT"
+    },
+    "dbguild_canvas_date": {
+        "ru": "Вчера, в 13:15",
+        "uk": "Вчора, о 13:15",
+        "en": "Yesterday at 13:15",
+        "fr": "Hier à 13h15"
+    },
+    "dbguild_submit_description": {
+        "ru": "Опции по умолчанию (наследуемые настройки) будут применены ко всем каналам созданным с этого момента.",
+        "uk": "Параметри за замовчуванням (успадковані настройки) будуть застосовані до всіх каналів, створених з цього моменту.",
+        "en": "The default options (inherited settings) will be applied to all channels created from now on.",
+        "fr": "Les options par défaut (paramètres hérités) seront appliquées à tous les canaux créés à partir de maintenant."
+    },
+    "dbguild_submit": {
+        "ru": "Сохранить",
+        "uk": "Зберегти",
+        "en": "Save",
+        "fr": "Sauvegarder"
+    },
+    "scrollmenu_server_title": {
+        "ru": "Настройки сервера",
+        "uk": "Налаштування сервера",
+        "en": "Server settings",
+        "fr": "Paramètres du serveur"
+    },
+    "scrollmenu_server_text": {
+        "ru": "Язык сервера, логи, модераторы и др.",
+        "uk": "Мова сервера, логи, модератори та ін.",
+        "en": "Server language, logs, moderators, etc.",
+        "fr": "Langue du serveur, journaux, modérateurs, etc."
+    },
+    "scrollmenu_add_title": {
+        "ru": "Добавить категорию",
+        "uk": "Додати категорію",
+        "en": "Add category",
+        "fr": "Ajouter une catégorie"
+    },
+    "scrollmenu_add_text": {
+        "ru": "Ваш лимит:",
+        "uk": "Ваш ліміт:",
+        "en": "Your limit is ",
+        "fr": "Votre limite est "
+    },
+    "scrollmenu_category_title": {
+        "ru": "Категория",
+        "uk": "Категорія",
+        "en": "Category",
+        "fr": "Catégorie"
+    },
+    "scrollmenu_category_text": {
+        "ru": "Каналы, настройки комнат и др.",
+        "uk": "Канали, налаштування кімнат та ін.",
+        "en": "Channels, room settings, etc.",
+        "fr": "Chaînes, paramètres de la pièce, etc."
+    },
+    "category_id_label": {
+        "ru": "Категория",
+        "uk": "Категорія",
+        "en": "Category",
+        "fr": "Catégorie"
+    },
+    "category_id_modal_description": {
+        "ru": "Выбери категорию на сервере, внутри которой будут создаваться голосовые каналы.",
+        "uk": "Виберіть категорію на сервері, в якій будуть створюватися голосові канали.",
+        "en": "Select a category on the server within which voice channels will be created.",
+        "fr": "Sélectionnez une catégorie sur le serveur dans laquelle les canaux vocaux seront créés."
+    },
+    "category_id_placeholder": {
+        "ru": "Категории не найдены",
+        "uk": "Категорії не знайдено",
+        "en": "No categories found",
+        "fr": "Aucune catégorie trouvée"
+    },
+    "trigger_id_label": {
+        "ru": "Триггер-канал",
+        "uk": "Тригер-канал",
+        "en": "Trigger channel",
+        "fr": "Canal de déclenchement"
+    },
+    "trigger_id_modal_description": {
+        "ru": "Выбери канал в категории, переходя в который будут создаваться голосовые каналы.",
+        "uk": "Виберіть канал у категорії, переходячи до якого будуть створюватися голосові канали.",
+        "en": "Select a channel in the category, going to which voice channels will be created.",
+        "fr": "Sélectionnez un canal dans la catégorie, en allant vers quels canaux vocaux seront créés."
+    },
+    "trigger_id_placeholder": {
+        "ru": "Голосовые каналы не найдены в категории",
+        "uk": "Голосові канали не знайдено у категорії",
+        "en": "No voice channels found in category",
+        "fr": "Aucun canal vocal trouvé dans la catégorie"
+    },
+    "category_language_label": {
+        "ru": "Язык сообщений в категории",
+        "uk": "Мова повідомлень у категорії",
+        "en": "Language of messages in the category",
+        "fr": "Langue des messages dans la catégorie"
+    },
+    "category_submit_add": {
+        "ru": "Создать категорию",
+        "uk": "Створити категорію",
+        "en": "Create a category",
+        "fr": "Créer une catégorie"
+    },
+    "notifs_id_label": {
+        "ru": "Канал для оповещений",
+        "uk": "Канал для оповіщень",
+        "en": "Channel for notifications",
+        "fr": "Canal de notifications"
+    },
+    "notifs_id_placeholder": {
+        "ru": "Текстовые каналы не найдены в категории",
+        "uk": "Текстові канали не знайдено у категорії",
+        "en": "Text channels not found in category",
+        "fr": "Chaînes de texte introuvables dans la catégorie"
+    },
+    "category_submit_delete": {
+        "ru": "Удалить",
+        "uk": "видалити",
+        "en": "Delete",
+        "fr": "Supprimer"
+    },
+    "dbguild_submit_prime_give": {
+        "ru": "Выдать Прайм-статус серверу",
+        "uk": "Видати Прайм-статус серверу",
+        "en": "Give Prime status to the server",
+        "fr": "Donner le statut Prime au serveur"
+    },
+    "dbguild_submit_prime_transfer": {
+        "ru": "Перенести Прайм-статус на этот сервер",
+        "uk": "Перенести прайм-статус на цей сервер",
+        "en": "Transfer Prime status to this server",
+        "fr": "Transférer le statut Prime vers ce serveur"
+    },
+    "dbguild_submit_prime_take": {
+        "ru": "Снять Прайм-статус",
+        "uk": "Зняти Прайм-статус",
+        "en": "Remove Prime status",
+        "fr": "Supprimer le statut Prime"
+    },
+    "guildstats_activity": {
+        "ru": "Активность",
+        "uk": "Активність",
+        "en": "Activity",
+        "fr": "Activité"
+    },
+    "guildstats_this_month": {
+        "ru": "В этом месяце",
+        "uk": "У цьому місяці",
+        "en": "This month",
+        "fr": "Ce mois-ci"
+    },
+    "guildstats_channels": {
+        "ru": "Создано каналов",
+        "uk": "Створено каналів",
+        "en": "Channels created",
+        "fr": "Chaînes créées"
+    },
+    "guildstats_users": {
+        "ru": "Количество пользователей",
+        "uk": "Кількість користувачів",
+        "en": "Number of users",
+        "fr": "Nombre d'utilisateurs"
+    },
+    "guildstats_time": {
+        "ru": "Проведено время в каналах",
+        "uk": "Проведено час у каналах",
+        "en": "Time spent in the channels",
+        "fr": "Temps passé dans les channel"
+    },
+    "dbguild_header_save": {
+        "ru": "Сохранять настройки пользователей",
+        "uk": "Зберігати налаштування користувачів",
+        "en": "Save user settings",
+        "fr": "Enregistrer les paramètres utilisateur"
+    },
+    "modal_filter_description": {
+        "ru": "Простая защита от нецензурной лексики в названии канала.",
+        "uk": "Простий захист від нецензурної лексики у назві каналу.",
+        "en": "Simple protection against obscene language in the channel name.",
+        "fr": "Protection simple contre le langage obscène dans le nom de la chaîne."
+    },
+    "modal_save_description": {
+        "ru": "При создании нового канала к нему будут применены настройки последней созданной пользователем комнаты.",
+        "uk": "При створенні нового каналу до нього будуть застосовані установки останньої створеної користувачем кімнати.",
+        "en": "When creating a new channel, the settings of the last room created by the user will be applied to it.",
+        "fr": "Lors de la création d'un nouveau canal, les paramètres de la dernière pièce créée par l'utilisateur lui seront appliqués."
+    },
+    "modal_color_description": {
+        "ru": "Выбранный цвет влияет на оформления Embed'а, раскраску кнопок и их описание (если они выводятся в тексте сообщения).",
+        "uk": "Вибраний колір впливає на оформлення Embed'а, забарвлення кнопок та їх опис (якщо вони виводяться у тексті повідомлення).",
+        "en": "The selected color affects the design of the Embed, the coloring of the buttons and their description (if they are displayed in the text of the message).",
+        "fr": "La couleur sélectionnée affecte le design de l'Embed, la couleur des boutons et leur description (s'ils sont affichés dans le texte du message)."
+    },
+    "channel_id_label": {
+        "ru": "Канал для публикации оповещений",
+        "uk": "Канал для публікації оповіщень",
+        "en": "Channel for publishing notifications",
+        "fr": "Canal de publication des notifications"
+    },
+    "channel_id_placeholder": {
+        "ru": "Текстовые каналы не найдены в категории",
+        "uk": "Текстові канали не знайдено у категорії",
+        "en": "Text channels not found in category",
+        "fr": "Chaînes de texte introuvables dans la catégorie"
+    },
+    "features_oneclick_title": {
+        "ru": "Создание каналов",
+        "uk": "Створення каналів",
+        "en": "Creating channels",
+        "fr": "Création de chaînes"
+    },
+    "features_oneclick_description": {
+        "ru": "Быстрое создание голосовых чатов - один клик и канал готов!",
+        "uk": "Швидке створення голосових чатів – один клік та канал готовий!",
+        "en": "Quickly create voice chats - one click and the channel is ready!",
+        "fr": "Créez rapidement des chats vocaux : un clic et la chaîne est prête !"
+    },
+    "features_setup_title": {
+        "ru": "Быстрая настройка",
+        "uk": "Швидке налаштування",
+        "en": "Quick setup",
+        "fr": "Installation rapide"
+    },
+    "features_setup_description": {
+        "ru": "Добавь бота на сервер, выбери триггер-канал и категорию - готово!",
+        "uk": "Додай бота на сервер, вибери тригер-канал та категорію – готово!",
+        "en": "Add the bot to the server, select a trigger channel and category - you're done!",
+        "fr": "Ajoutez le bot au serveur, sélectionnez un canal de déclenchement et une catégorie – vous avez terminé !"
+    },
+    "features_stats_title": {
+        "ru": "Статистика",
+        "uk": "Статистика",
+        "en": "Statistics",
+        "fr": "Statistiques"
+    },
+    "features_stats_description": {
+        "ru": "Подсчет статистики использования голосовых каналов бота.",
+        "uk": "Підрахунок статистики використання голосових каналів робота.",
+        "en": "Calculation of statistics on the use of bot voice channels.",
+        "fr": "Calcul de statistiques sur l'utilisation des canaux vocaux des bots."
+    },
+    "features_dashboard_title": {
+        "ru": "Веб-панель",
+        "uk": "Веб-панель",
+        "en": "Dashboard",
+        "fr": "Tableau de bord"
+    },
+    "features_dashboard_description": {
+        "ru": "Конфигурация бота без замудренных текстовых команд в веб-панели на сайте.",
+        "uk": "Конфігурація бота без хитромудрих текстових команд у веб-панелі на сайті.",
+        "en": "Bot configuration without complicated text commands in the Dashboard on the site.",
+        "fr": "Configuration du bot sans commandes de texte compliquées dans le tableau de bord du site."
+    },
+    "features_menu_title": {
+        "ru": "Управление каналами",
+        "uk": "Управління каналами",
+        "en": "Channel management",
+        "fr": "La gestion des canaux"
+    },
+    "features_menu_description": {
+        "ru": "Удобное меню управление своими комнатами через [кнопки] и /команды.",
+        "uk": "Зручне меню керування своїми кімнатами через [кнопки] та /команди.",
+        "en": "Convenient menu for managing your rooms via [buttons] and /commands.",
+        "fr": "Menu pratique pour gérer vos pièces via [boutons] et /commandes."
+    },
+    "features_logs_title": {
+        "ru": "Лоригование",
+        "uk": "Лоригування",
+        "en": "Logging",
+        "fr": "Enregistrement"
+    },
+    "features_logs_description": {
+        "ru": "Расширенное логирование событий на сервере.",
+        "uk": "Розширене логування подій на сервері.",
+        "en": "Advanced event logging on the server.",
+        "fr": "Journalisation avancée des événements sur le serveur."
+    },
+    "features_prime": {
+        "ru": "Прайм-функции",
+        "uk": "Прайм-функції",
+        "en": "Prime features",
+        "fr": "Fonctionnalités principales"
+    },
+    "features_prime_description": {
+        "ru": "Больше настроек персонализации, статистики и доп.функции по ежемесячной подписке.",
+        "uk": "Більше налаштувань персоналізації, статистики та додаткової функції по щомісячній підписці.",
+        "en": "More personalization settings, statistics and additional functions with a monthly subscription.",
+        "fr": "Plus de paramètres de personnalisation, de statistiques et de fonctions supplémentaires avec un abonnement mensuel."
+    },
+    "features_prime_price": {
+        "ru": "100",
+        "uk": "2",
+        "en": "2",
+        "fr": "2"
+    },
+    "features_prime_currency": {
+        "ru": "₽",
+        "uk": "$",
+        "en": "$",
+        "fr": "$"
+    },
+    "features_prime_period": {
+        "ru": "месяц",
+        "uk": "місяць",
+        "en": "month",
+        "fr": "mois"
+    },
+    "features_prime_list": {
+        "ru": "Набор функций",
+        "uk": "Набір функцій",
+        "en": "Features",
+        "fr": "Caractéristiques"
+    },
+    "features_prime_list_extended": {
+        "ru": "Дополнительные возможности",
+        "uk": "Додаткові можливості",
+        "en": "Additional features",
+        "fr": "Caractéristiques supplémentaires"
+    },
+    "features_prime_free": {
+        "ru": "Бесплатно",
+        "uk": "Безкоштовно",
+        "en": "Free",
+        "fr": "Gratuit"
+    },
+    "features_prime_url": {
+        "ru": "https://boosty.to/dsroomcreator",
+        "uk": "https://boosty.to/dsroomcreator",
+        "en": "https://patreon.com/RoomCreator2?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link",
+        "fr": "https://patreon.com/RoomCreator2?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link"
+    },
+    "features_prime_item_cats": {
+        "ru": "Лимит категорий на сервер",
+        "uk": "Ліміт категорій на сервер",
+        "en": "Categories limit per server",
+        "fr": "Limite de catégories par serveur"
+    },
+    "features_prime_item_1": {
+        "ru": "Настройки комнат по умолчанию",
+        "uk": "Налаштування кімнат за замовчуванням",
+        "en": "Room default settings",
+        "fr": "Paramètres par défaut de la pièce"
+    },
+    "features_prime_item_2": {
+        "ru": "Кастомизация названий каналов",
+        "uk": "Кастомізація назв каналів",
+        "en": "Customization of channel names",
+        "fr": "Personnalisation des noms de chaînes"
+    },
+    "features_prime_item_3": {
+        "ru": "Разрешения на управление каналом",
+        "uk": "Дозволи на керування каналом",
+        "en": "Channel management permissions",
+        "fr": "Autorisations de gestion des chaînes"
+    },
+    "features_prime_item_4": {
+        "ru": "Фильтр названий каналов",
+        "uk": "Фільтр назв каналів",
+        "en": "Channel name filter",
+        "fr": "Filtre de nom de chaîne"
+    },
+    "features_prime_item_5": {
+        "ru": "Пресеты пользователей",
+        "uk": "Пресети користувачів",
+        "en": "User Presets",
+        "fr": "Préréglages utilisateur"
+    },
+    "features_prime_item_6": {
+        "ru": "Кастомизация сообщений",
+        "uk": "Кастомізація повідомлень",
+        "en": "Message customization",
+        "fr": "Personnalisation des messages"
+    },
+    "guild_select_prime": {
+        "ru": "Прайм-статус на один сервер в наличии",
+        "uk": "Прайм-статус на один сервер.",
+        "en": "Prime status for one server available",
+        "fr": "Statut Prime pour un serveur disponible"
+    },
+    "features_prime_tooltip": {
+        "ru": "Только при наличии Прайм-статуса",
+        "uk": "Тільки за наявності Прайм-статусу",
+        "en": "Avaiable only with Prime status",
+        "fr": "Disponible uniquement avec le statut Prime"
+    },
+    "home_cta_panel": {
+        "ru": "С чего начать?",
+        "uk": "З чого почати?",
+        "en": "Where to begin?",
+        "fr": "Où commencer?"
+    },
+    "stats_years": {
+        "ru": "г. ",
+        "uk": "м. ",
+        "en": "y. ",
+        "fr": "année "
+    },
+    "stats_months": {
+        "ru": "мес. ",
+        "uk": "міс. ",
+        "en": "months ",
+        "fr": "mois "
+    },
+    "stats_days": {
+        "ru": "дн. ",
+        "uk": "дн. ",
+        "en": "days ",
+        "fr": "jours "
+    },
+    "stats_hours": {
+        "ru": "ч. ",
+        "uk": "год. ",
+        "en": "hrs. ",
+        "fr": "heures "
+    },
+    "stats_mins": {
+        "ru": "мин. ",
+        "uk": "хв. ",
+        "en": "mins. ",
+        "fr": "minutes "
+    },
+    "invite_bot_description": {
+        "ru": "Пригласить бота RoomCreator2 на Discord сервер",
+        "uk": "Запросити робота RoomCreator2 на Discord сервер",
+        "en": "Invite the RoomCreator2 bot to the Discord server",
+        "fr": "Invitez le bot RoomCreator2 sur le serveur Discord"
+    },
+    "invite_perms_admin": {
+        "ru": "Администратор",
+        "uk": "Адміністратор",
+        "en": "Administrator",
+        "fr": "Administrateur"
+    },
+    "invite_admin_description": {
+        "ru": "Добавление бота на сервер с Админ-правами позволит избежать большинство проблем возникающих при потери доступа к каналам или сообщениям в следствии измении настроек модераторами сервера.",
+        "uk": "Додавання бота на сервер з адмін-правами дозволить уникнути більшість проблем, що виникають при втраті доступу до каналів або повідомлень внаслідок зміни налаштувань модераторами сервера.",
+        "en": "Adding a bot to the server with Administrator rights will allow you to avoid most of the problems that arise when you lose access to channels or messages as a result of server moderators changing settings.",
+        "fr": "L'ajout d'un bot au serveur avec des droits d'administrateur vous permettra d'éviter la plupart des problèmes qui surviennent lorsque vous perdez l'accès aux chaînes ou aux messages en raison de la modification des paramètres par les modérateurs du serveur."
+    },
+    "invite_admin_cta": {
+        "ru": "Пригласить с Админ-правами",
+        "uk": "Запросити з Адмін-правами",
+        "en": "Invite with Admin perms",
+        "fr": "Inviter avec les droits d'administrateur"
+    },
+    "invite_perms_cta": {
+        "ru": "Пригласить с общими правами",
+        "uk": "Запросити із загальними правами",
+        "en": "Invite with general perms",
+        "fr": "Inviter avec des droits généraux"
+    },
+    "invite_perms_roles": {
+        "ru": "Управлять ролями",
+        "uk": "Керувати ролями",
+        "en": "Manage roles",
+        "fr": "Gérer les rôles"
+    },
+    "invite_perms_mute": {
+        "ru": "Отключать микрофон",
+        "uk": "Вимикати мікрофон",
+        "en": "Mute microphone",
+        "fr": "Couper le microphone"
+    },
+    "invite_perms_move": {
+        "ru": "Перемещать участников",
+        "uk": "Переміщати учасників",
+        "en": "Move members",
+        "fr": "Déplacer les participants"
+    },
+    "invite_perms_description_1": {
+        "ru": "Для взаимодействия с пользователями в чатах.",
+        "uk": "Для взаємодії з користувачами у чатах.",
+        "en": "To interact with users in chats.",
+        "fr": "Pour interagir avec les utilisateurs dans les chats."
+    },
+    "invite_perms_channels": {
+        "ru": "Управлять каналами",
+        "uk": "Керувати каналами",
+        "en": "Manage channels",
+        "fr": "Gérer les chaînes"
+    },
+    "invite_perms_view": {
+        "ru": "Просматривать каналы",
+        "uk": "Переглядати канали",
+        "en": "View channels",
+        "fr": "Parcourir les chaînes"
+    },
+    "invite_perms_connect": {
+        "ru": "Подключаться",
+        "uk": "Підключатися",
+        "en": "Connect",
+        "fr": "Connecter"
+    },
+    "invite_perms_speak": {
+        "ru": "Говорить",
+        "uk": "Говорити",
+        "en": "Speak",
+        "fr": "Parler"
+    },
+    "invite_perms_description_2": {
+        "ru": "Для создания и обновления настроек голосовых каналов.",
+        "uk": "Для створення та оновлення голосових каналів.",
+        "en": "To create and update voice channel settings.",
+        "fr": "Pour créer et mettre à jour les paramètres du canal vocal."
+    },
+    "invite_perms_send": {
+        "ru": "Отправлять сообщения",
+        "uk": "Надсилати повідомлення",
+        "en": "Send messages",
+        "fr": "Envoyer des messages"
+    },
+    "invite_perms_messages": {
+        "ru": "Управлять сообщениями",
+        "uk": "Керувати повідомленнями",
+        "en": "Manage messages",
+        "fr": "Gérer les messages"
+    },
+    "invite_perms_embed": {
+        "ru": "Встраивать ссылки",
+        "uk": "Вбудовувати посилання",
+        "en": "Embed links",
+        "fr": "Intégrer des liens"
+    },
+    "invite_perms_attach": {
+        "ru": "Прикреплять файлы",
+        "uk": "Прикріплювати файли",
+        "en": "Attach files",
+        "fr": "Joindre des fichiers"
+    },
+    "invite_perms_invite": {
+        "ru": "Создание приглашения",
+        "uk": "Створення запрошення",
+        "en": "Create an invite",
+        "fr": "Créer une invitation"
+    },
+    "invite_perms_description_3": {
+        "ru": "Для отправки уведомлений о создании канала (меню с кнопками).",
+        "uk": "Щоб надіслати повідомлення про створення каналу (меню з кнопками).",
+        "en": "To send notifications about channel creation (menu with buttons).",
+        "fr": "Pour envoyer des notifications sur la création de chaînes (menu avec boutons)."
+    },
+    "invite_perms_webhooks": {
+        "ru": "Управлять вебхуками",
+        "uk": "Керувати вебхуками",
+        "en": "Manage webhooks",
+        "fr": "Gérer les webhooks"
+    },
+    "invite_perms_description_4": {
+        "ru": "Для отправки логов.",
+        "uk": "Для надсилання логів.",
+        "en": "To send logs.",
+        "fr": "Pour envoyer des journaux."
+    }
+}

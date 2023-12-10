@@ -1,180 +1,31 @@
-# A repo only contains a MarkDown files
-> Yea, I know that maybe this is not a very useful repository.
+Last updated on 30th of November in 2023
 
-# Markdown formating
+### Introduction
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+We may make changes to this Privacy Policy in the future. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of such changes.
 
-# Heading 1
-`# Heading 1`
+### Information we may collect about you
+We collect and process the following information which may include your personal data.
+Your Discord ID, Username & Avatar, Discord Server ID, Name & Avatar, Discord Channels ID & Name and the data you supply to us and information provided by you when using the RoomCreator2.
+We do not access or store any additional infomation such as emails or phone numbers for our Discord bot users.
 
-## Heading 2
-`## Heading 2`
+### Collecting, processing and using personal data
+We only store and process your personal data when you have voluntarily supplied us with it such as adding RC2 on your server or by interacting with it. Your personal data will only be disclosed or otherwise transmitted if this is necessary to implement the contract, render our Services or you have given your prior consent.
 
-### Heading 3
-`### Heading 3`
+### Why we collect information about you – purpose of processing
+We will use information about you for delivering our Services to you under the terms of use agreed between us. The processing of information in this way is necessary for us to provide you the Service properly and to ensure the features function properly so that you have the best Service possible.
 
-#### Heading 4
-`#### Heading 4`
+### Data sharing
+We do NOT sell your personal data and we don’t provide it to anyone outside our organisation for any other purpose than the Service you subscribed for.
+Personnel, suppliers or subcontractors: We keep your information confidential, but may disclose it to our personnel, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this Privacy Policy. However, this is on the basis that they do not make independent use of the information, and have agreed to safeguard it.
+Required by law: In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights.
 
-##### Heading 5
-`##### Heading 5`
+### Payments
+We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
+We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. 
+* Patreon.com - [privacy.patreon.com/policies/en/](https://privacy.patreon.com/policies/en/)
+* Boosty.to - [boosty.to/app/offer/privacy-policy](https://boosty.to/app/offer/privacy-policy)
 
-###### Heading 6
-`###### Heading 6`
-
----
-
-# Paragraph
-
-text `Inline Code` text		
-~~Mistaken text.~~	
-*Italics*	
-**Bold**	
-
-```markdown
-text `Inline Code` text		
-~~Mistaken text.~~	
-*Italics*	
-**Bold**	
-```
-
----
-
-# Tasks
-
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**
-- [ ] incomplete
-- [x] completed
-
-```markdown
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**
-- [ ] incomplete
-- [x] completed
-```
-
----
-
-# Code Blocks
-
-#### Note:
-    4 space indention
-    makes full-width
-    standard code blocks
-	
-```markdown
-    4 space indention
-    makes full-width
-    standard code blocks
-```
-
-
-```js
-document.innerHTML = "I'm js code";
-
-/* I'm comment */
-```
-
-```css
-.scss {
-font-size: 25px;
-width: 100%;
-padding: 5px;
-height: 50%;
-color: #333;
-}
-
-/* I'm comment */
-```
-
----
-
-# List
-
-* List item one
-* List item two
-    * A nested item
-
-
-```markdown
-* List item one
-* List item two
-    * A nested item
-```
-
----
-
-# Numbered List
-
-1. Number list item one		
-2. Number list item two
-3. Number list item three
-
-```markdown
-1. Number list item one		
-2. Number list item two
-3. Number list item three
-```
-
----
-
-# Quote
-
-> Quote
-> 
-> Second line Quote
-
-```markdown
-> Quote
-> 
-> Second line Quote
-```
-
-
----
-
-Standard link =  https://igorkowalczyk.github.io <br>
-[Custom Text Link](https://igorkowalczyk.github.io)
-
-```markdown
-Standard link =  https://igorkowalczyk.github.io
-[Custom Text Link](https://igorkowalczyk.github.io)
-```
-
----
-
-# Image
-
-```markdown
-![Image](https://github.com/fluidicon.png)
-```
-![Image](https://github.com/fluidicon.png)
-
-## Change Size
-GFM (Github Flavored MarkDown) don't support change size of img but You can use some HTML "img" tags in your Markdown:
-									       
-```html
-<img src="https://github.com/fluidicon.png" alt="Image" width="200" height="200"/>
-```
-
-<img src="https://github.com/fluidicon.png" alt="Image" width="200" height="200"/>
-
----
-
-# Table
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
-```markdown
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-```
+### Contact
+If you have any questions or concerns, you can reach the Company via email at [3via.idaspin@gmail.com](mailto:3via.idaspin@gmail.com), or via Discord at [https://roomcreator2.info/community](/community).
