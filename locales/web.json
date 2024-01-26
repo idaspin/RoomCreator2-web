@@ -1043,8 +1043,8 @@
         "fr": "Menu pratique pour gérer vos pièces via [boutons] et /commandes."
     },
     "features_logs_title": {
-        "ru": "Лоригование",
-        "uk": "Лоригування",
+        "ru": "Логирование",
+        "uk": "Логування",
         "en": "Logging",
         "fr": "Enregistrement"
     },
