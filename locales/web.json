@@ -1329,5 +1329,11 @@
         "uk": "Для надсилання логів.",
         "en": "To send logs.",
         "fr": "Pour envoyer des journaux."
+    },
+    "configure_leave_button": {
+        "ru": "Покинуть сервер и удалить все данные.",
+        "uk": "Залишити сервер та видалити всі дані.",
+        "en": "Leave the server and delete all data.",
+        "fr": "Quittez le serveur et supprimez toutes les données."
     }
 }
